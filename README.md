@@ -24,3 +24,8 @@ Node.js tutorial
 # Lesson1
   Presentation: http://slides.com/ivandobrovolsky/node-js-course
   
+
+
+# Lesson2
+  Presentation: http://slides.com/ivandobrovolsky/node-js-course-3
+  
