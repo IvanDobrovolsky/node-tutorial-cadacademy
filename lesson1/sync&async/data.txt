@@ -1,0 +1,13 @@
+2015 was our first full year serving the JavaScript community, and I’m very happy with the response. We started at zero in the middle of 2014. Today, thousands of readers share our articles every month.
+We have appeared many times in the Medium top 100 and top 20 lists, and just this morning, appeared 4 times in the JavaScript Weekly best of 2015 issue. We’re humbled and grateful for your support.
+Here are the most recommended JavaScript Scene articles of 2015:
+10 Interview Questions Every JavaScript Developer Should Know
+Lots of developers manage to skate by without ever truly understanding the Two Pillars of JavaScript, asynchronous programming, and essential principles of application architecture. But if you want to build scalable, high quality applications — if you want to lead teams and mentor new developers — these are essential skills you need to master.
+If you think this article is just theory, think again. You’re probably using these techniques every day without realizing it. Every major JavaScript application I’ve ever seen makes heavy use of prototypal OO, functional programming, asynchronous JavaScript, modularity, and the other topics addressed in this article. Time to stop skating by and get serious about mastering JavaScript.
+2. Must See JavaScript Dev Tools that Put Other Dev Tools to Shame
+The tools we use now in JS make fancy IDE autocomplete look like a baby chew toy.
+3. Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016.
+Some people seem to think that more JavaScript developers in training has been leading to a more competitive job market. This article sets a few things straight, backed by lots of data — most importantly:
+It’s a candidate’s market, and that won’t change in the foreseeable future.
+4. Why Hiring is So Hard in Tech
+An article packed with great advice for people trying to hire JavaScript developers, and JavaScript developers trying to be hired. In Silicon Valley, 45% of tech employees are not from the United States. It costs tens of thousands of dollars more to hire non-US workers, and the process entails months of waiting. So why do we hire so many foreign workers? Because it’s even harder to find qualified talent locally. This article examines some of the reasons for that, and what we can do about it.
