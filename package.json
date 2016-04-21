@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/IvanDobrovolsky/node-tutorial-cadacademy#readme",
   "dependencies": {
+    "events": "^1.1.0",
     "express": "4.13.4",
     "fs": "0.0.2"
   }

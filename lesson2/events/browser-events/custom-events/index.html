@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom brower events</title>
+    <style>
+        body{
+            background: aquamarine;
+        }
+
+        h1{
+            color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>Custom browser events</h1>
+
+    <p>
+        avaScript events have been the gateway to user interaction within the browser since its inception. Not only do events tell us when an interaction happens, but events tell us type of interaction, the nodes involved, and provide us methods for working with the event. Creating custom events and triggering them have always been trickier. Using JavaScript's CustomEvent API, that trickery can be eliminated. The CustomEvent API allows developers to not only create custom events but trigger them on DOM nodes, passing data along the way. Best of all, the API is super simple!
+    </p>
+    <a href="https://davidwalsh.name/customevent">David Walsh blog</a>
+
+    <br/><br/>
+
+    <label for="name">Type 'yes' to trigger a custom event!</label>
+    <input type="text" id="name" >
+    <script src="custom-events.js"></script>
+</body>
+</html>
