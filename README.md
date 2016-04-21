@@ -28,4 +28,11 @@ Node.js tutorial
 
 # Lesson2
   Presentation: http://slides.com/ivandobrovolsky/node-js-course-3
-  
+
+
+
+
+ ---
+# References: 
+- https://learn.javascript.ru/screencast/nodejs
+- http://nodeschool.io
