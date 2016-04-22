@@ -13,5 +13,5 @@ function getDataFromFile(filename, errorHandler, successHandler){
 }
 
 module.exports = {
-  getDataFromFile
+    getDataFromFile
 };

@@ -3,7 +3,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-const utils = require('./utils');
+const utils = require('./../../../utils');
 const filename = 'data.txt';
 
 app.get('/read', (request, response) => {
