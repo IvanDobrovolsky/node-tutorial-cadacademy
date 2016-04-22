@@ -1,0 +1,15 @@
+    Streams are unix pipes that let you easily read data from a source and pipe it to a destination.
+Simply put, a stream is nothing but an EventEmitter and implements some specials methods.
+Depending on the methods implemented, a stream becomes Readable, Writable, or Duplex (both readable and writable).
+Readable streams let you read data from a source while writable streams let you write data to a destination.
+
+    request - readable stream
+    response - writable stream
+
+Streams are just objects that fire events
+
+    max-size 64kb
+
+Why you should use streams?
+    I/O in node is asynchronous, so interacting with the disk and network involves passing callbacks to functions.
+    You might be tempted to write code that serves up a file from disk like this:
