@@ -37,5 +37,9 @@ Node.js tutorial
 
  ---
 # References: 
+- https://nodejs.org/en/docs/
 - https://learn.javascript.ru/screencast/nodejs
 - http://nodeschool.io
+- https://scotch.io/tag/node-js
+- https://university.mongodb.com/courses/M101JS/about
+- https://leanpub.com/mean-machine
