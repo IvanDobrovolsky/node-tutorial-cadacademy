@@ -24,7 +24,7 @@ app.get('/read', (request, response) => {
 
     file.on('open', () => response.write(utils.respondWithToastrMessages('info', 'Opened the file!')));
 
-    file.on('error', () => response.write(utils.respondWithToastrMessages('error', 'An error has occurred!')));
+    file.on('error', (err) => response.write(utils.respondWithToastrMessages('error', err)));
 
     file.on('data', chunk => {
        response.write(chunk + utils.respondWithToastrMessages('success', `Successfully read a chunk! (${chunk.length} bytes)` ))

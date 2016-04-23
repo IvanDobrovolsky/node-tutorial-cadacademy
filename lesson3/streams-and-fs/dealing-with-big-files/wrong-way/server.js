@@ -17,9 +17,13 @@ const filename = './../../ukraine-wiki.html';
 
 app.get('/read', (request, response) => {
     fs.readFile(filename, {encoding: 'utf8'}, (err, content) => {
-        if(err) response.write(err);
-        response.write(content);
-        response.end(utils.respondWithToastrMessages('success', 'The file was read!'));
+        if(err) {
+            response.write(utils.respondWithToastrMessages('error', err));
+        } else {
+            response.write(content);
+            response.write(utils.respondWithToastrMessages('success', 'The file was read!'));
+        }
+        response.end();
     });
 });
 
