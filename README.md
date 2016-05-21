@@ -34,6 +34,9 @@ Node.js tutorial
   Presentation: http://slides.com/ivandobrovolsky/node-js-course-3-4
 
 
+# Lesson4
+  Presentation: http://slides.com/ivandobrovolsky/node-js-course-3-4-5
+  Realtime application: https://github.com/IvanDobrovolsky/realtime-chatting-app
 
  ---
 # References: 
@@ -43,3 +46,4 @@ Node.js tutorial
 - https://scotch.io/tag/node-js
 - https://university.mongodb.com/courses/M101JS/about
 - https://leanpub.com/mean-machine
+- http://socket.io
